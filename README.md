@@ -21,7 +21,7 @@ The finetuned models on DDD17 and DSEC-Semantic are available for direct applica
 
 | Model (DSEC-Semantic) | Val (% mIOU) | Params (M) | FLOPs (G) | FPS |
 |:-:|:-:|:-:|:-:|:-:|
-| SLTNet| [47.91](https://drive.google.com/file/d/1o5FPX1ACfRNL7WNKEkPlAhBnaUnPpKWp/view?usp=drive_link)| 1.67 | 6.97 | 114.29 |
+| SLTNet| [47.91](https://drive.google.com/file/d/1SfTWcgsZbuOU3tCeXva9-LuJ94wLnae7/view?usp=sharing)| 1.67 | 6.97 | 114.29 |
 
 
 ## Installation
